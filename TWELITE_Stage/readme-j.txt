@@ -1,5 +1,3 @@
-TWELITE Stage v0.8.9 - 2020/05/29
-
 [LICENSE]
 - TWELITE_Stage.command 実行形式には MW-SLA-1J,E が適用されます。
 - TWELITE 無線マイコン用の実行形式(ファームウェア,アプリ)は MW-SLA-1J,Eが適用されます。
